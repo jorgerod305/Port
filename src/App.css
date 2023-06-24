@@ -1731,7 +1731,7 @@ opacity:0;
     bottom: 0;
     left: 0;
     z-index: -1;       /* place it below the content of .mainDiv */
-    background-image: url(/Users/jorgepita/Desktop/PortResume/src/bonesbgless.png);
+    background-image: url(/Users/jorgepita/Desktop/Portme/src/bonesbgless.png);
     background-size: contain;
     background-repeat: repeat;
     background-position: center top;
@@ -1926,7 +1926,7 @@ transform: translateY(255px) ;    }
   }
   
   .section3{
-  background-image: url(/Users/jorgepita/portresu/src/engbg.svg);
+  background-image: url(/Users/jorgepita/Port/src/engbg.svg);
   background-size: cover;
 
   }
@@ -2067,7 +2067,7 @@ background: transparent;
       }
 
       .ball2{
-        background-image: url(/Users/jorgepita/Desktop/PortResume/src/bonesbgless.png);
+        background-image: url(/Users/jorgepita/Desktop/Portme/src/bonesbgless.png);
 
         opacity:0;
         stroke: #f5f5f5;

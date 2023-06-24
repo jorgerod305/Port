@@ -1,12 +1,12 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
-import mainDivBG from '/Users/jorgepita/portresu/src/FireflyBG-2.jpg'
-import AdobeLogo from '/Users/jorgepita/portresu/src/adobelogo.png';
-import FusionLogo from '/Users/jorgepita/portresu/src/fusion360logo.png';
-import CSSLogo from '/Users/jorgepita/portresu/src/csslogo.png';
+import mainDivBG from '/Users/jorgepita/Port/src/FireflyBG-2.jpg'
+import AdobeLogo from '/Users/jorgepita/Port/src/adobelogo.png';
+import FusionLogo from '/Users/jorgepita/Port/src/fusion360logo.png';
+import CSSLogo from '/Users/jorgepita/Port/src/csslogo.png';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Import carousel styles
-import lightbulb from '/Users/jorgepita/portresu/src/lightbulbiinno.png';
+import lightbulb from '/Users/jorgepita/Port/src/lightbulbiinno.png';
 import useIntersectionObserver from './useIntersectionObserver';
 
 
