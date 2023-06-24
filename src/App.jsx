@@ -641,20 +641,6 @@ function App() {
 
 
 
-  const lightbulbcss= {
-
- 
-
-  display:'flex',
-    width: '100%',
-    height: '200px',
-    backgroundImage: `url(${lightbulb})`,
-    backgroundSize:'contain',
-    zIndex:1,
-    backgroundRepeat:'no-repeat',
-  
-  }
-
   const lightbulbctncss = 
   {
     justifyContent:'end',
