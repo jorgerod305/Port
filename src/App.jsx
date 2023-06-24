@@ -641,15 +641,6 @@ function App() {
 
 
 
-  const SKmidlogos= {
-
-  
-    width: '17%',
-    height: '100px',
-    backgroundImage: `url(${AdobeLogo})`,
-    backgroundSize:'cover',
-  
-  }
   const lightbulbcss= {
 
  
