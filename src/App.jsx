@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
-import AdobeLogo from '/Users/jorgepita/Port/src/adobelogo.png';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Import carousel styles
 import lightbulb from '/Users/jorgepita/Port/src/lightbulbiinno.png';
