@@ -1,0 +1,20 @@
+     <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165.26 245.33">
+  <defs>
+
+  </defs>
+  <path class="mg-3" d="m133.86,244.83H31.34c-17.03,0-30.83-13.8-30.83-30.35V81.13l164.18-.48v133.35c0,17.03-13.8,30.83-30.83,30.83Z"/>
+  <g>
+    <rect class="mg-3" x="20.1" y="105.05" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="20.1" y="117.79" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="20.1" y="151" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="20.1" y="139.93" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="20.1" y="128.86" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="85.75" y="105.05" width="54.38" height="5.14"/>
+    <rect class="mg-3" x="85.75" y="113.69" width="54.38" height="67.26"/>
+    <rect class="mg-3" x="12.61" y="93.76" width="137.95" height="137.95"/>
+  </g>
+  <polyline class="mg-3" points=".35 80.32 80.55 .7 164.76 80.32"/>
+  <polygon class="mg-1" points="83.04 222.04 .99 145.63 .99 119.45 83.04 222.04"/>
+  <polygon class="mg-1" points="82.16 222.01 164.21 145.61 164.21 119.45 82.16 222.01"/>
+  <path class="mg-2" d="m82.72,220.97L2.63,146.58c-.57-.53-1.4-.67-2.12-.36h0v68.53c0,16.61,13.47,30.08,30.08,30.08h103.42c16.98,0,30.75-13.77,30.75-30.75l-.07-67.84h0c-.67-.32-1.46-.19-2,.31l-79.98,74.41h0Z"/>
+</svg>
